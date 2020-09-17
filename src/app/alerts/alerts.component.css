@@ -1,0 +1,32 @@
+/* modal pop up */
+.alert-button .btn{
+  font-size: 30px;
+  padding-left: 50px;
+  padding-right: 50px;
+}
+
+
+/* modal */
+.modal-content{
+  width: 1200px;
+  left: -200px;
+}
+
+.modal-header{
+  background: #2b91d9;
+  color: #fff;
+}
+
+/* nav tabs */
+.nav-tabs{
+  background: #2b91d9 !important;
+  color: #fff;
+}
+
+.nav-tabs .nav-link{
+  color: #fff;
+}
+
+.nav-tabs .nav-link.active{
+  color: #2b91d9;
+}
